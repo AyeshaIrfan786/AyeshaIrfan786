@@ -11,7 +11,7 @@
 - 🔭 Currently building **projects in C++ & Python**
 - 🌱 Learning **AI + Open Source**
 - 💡 Love combining **logic + creativity**
-- 🎯 Goal: Become an **AI Engineer**
+- 🎯  **AI Engineer** **Researcher**
 
 ---
 
