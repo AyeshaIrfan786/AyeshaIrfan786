@@ -8,10 +8,10 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently building **projects in C++ & Python**
+- 🔭 Currently building **projects in C++ & Python**(DSA + AI focused)
 - 🌱 Learning **AI + Open Source**
 - 💡 Love combining **logic + creativity**
-- 🎯  **AI Engineer** **Researcher**
+- 🎯 Aspiring **AI Engineer** & **Researcher**
 
 ---
 
