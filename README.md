@@ -11,7 +11,7 @@
 - 🔭 Currently building **projects in C++ & Python**(DSA + AI focused)
 - 🌱 Learning **AI + Open Source**
 - 💡 Love combining **logic + creativity**
-- 🎯 Aspiring **AI Engineer** & **Researcher**
+- 🎯 Aspiring **AI Engineer** 
 
 ---
 
